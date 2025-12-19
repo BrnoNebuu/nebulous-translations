@@ -173,7 +173,7 @@
     <string name="Experienced_Nebulator">"Nebulador Experiente"</string>
     <string name="Expert_Nebulator">"Nebulador Especialista"</string>
     <string name="Master_Nebulator">"Nebulador Mestre"</string>
-    <string name="Grand_Master_Nebulator">"Grande Mestre Nebulador"</string>
+    <string name="Grand_Master_Nebulator">"Nebulador Grão Mestre"</string>
     <string name="Impossible">"Impossível"</string>
 
     <string name="Perfection">"Perfeição"</string>
@@ -288,7 +288,7 @@
     <string name="SET_MOTD">"DEFINIR MDD"</string>
     <string name="No_such_user_found_">"Nenhum usuário encontrado."</string>
     <string name="No_open_public_clans_exist_">"Não existem clãs públicos abertos."</string>
-    <string name="You_aren_t_invited_to_that_clan_">"Você não está convidado para este clã."</string>
+    <string name="You_aren_t_invited_to_that_clan_">"Você não foi convidado para este clã."</string>
     <string name="No_such_clan_exists_">"Não existe tal clã."</string>
     <string name="That_clan_is_full_">"Este clã está cheio."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Outro usuário não é um membro de seu clã."</string>
@@ -303,7 +303,7 @@
     <string name="Survival_Domination">"Dominador de Sobrevivência"</string>
     <string name="I_Will_Survive">"Eu vou sobreviver"</string>
     <string name="Soccer_Domination">"Dominador do Futebol"</string>
-    <string name="Soccer_Hat_Trick">"Hat-Trick do Futebol"</string>
+    <string name="Soccer_Hat_Trick">"Hat-Tricker do Futebol"</string>
     <string name="Win_by_2_500_points_in_an_FFA_Time_game_">"Ganhar por 2.500 pontos em um jogo de FFA com Tempo."</string>
     <string name="Win_by_7_500_points_in_an_Teams_Time_game_">"Ganhar por 7.500 pontos em um jogo de Equipes com Tempo"</string>
     <string name="Win_by_3_points_in_a_CTF_game_">"Vencer por 3 pontos em um jogo de CAB."</string>
@@ -317,7 +317,7 @@
     <string name="Translations">"Traduções"</string>
     <string name="Developers">"Desenvolvedores"</string>
     <string name="Special_Thanks">"Agradecimentos Especiais"</string>
-    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Muito Obrigado a todos os fãs do Nebulous"</string>
+    <string name="Many_Thanks_To_Every_Nebulous_Fan">"Muito obrigado a todos os fãs do Nebulous"</string>
     <string name="Color_Blind">"Daltônico"</string>
     <string name="Daily_Quest_Complete_">"Tarefa Diária Concluída!"</string>
     <string name="COPY_ID">"COPIAR ID"</string>
@@ -438,7 +438,7 @@
     <string name="Cannot_apply_new_XP_boost_until_current_boost_expires_">"Não é possível aplicar um novo impulso de XP até o impulso atual expirar."</string>
     <string name="This_purchase_has_already_been_redeemed_">"Esta compra já foi resgatada."</string>
 
-    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Você não pode remover a si mesmo. Saia do clã ao invés disso."</string>
+    <string name="You_cannot_remove_yourself__Leave_clan_instead_">"Você não pode remover você mesmo. Saia do clã ao invés disso."</string>
 
 
     <string name="until">"até"</string>
@@ -475,7 +475,7 @@
     <string name="Contestant">"Competidor"</string>
     <string name="Duelist">"Duelista"</string>
     <string name="Gladiator">"Gladiador"</string>
-    <string name="Challenger">"Desafiador"</string>
+    <string name="Challenger">"Desafiante"</string>
     <string name="Win_1_1v1_Arenas_">"Vencer uma Arena."</string>
     <string name="Win_10_Arenas_">"Vencer 10 Arenas."</string>
     <string name="Win_100_Arenas_">"Vencer 100 Arenas."</string>
@@ -576,8 +576,8 @@
     <string name="candies_">"doces."</string>
     <string name="Language">"Idioma"</string>
     <string name="Control_Opacity_">"Opacidade do Controlador:"</string>
-    <string name="You_dont_own_the_team_">"Você não é dono da equipe:"</string>
-    <string name="User_has_already_been_invited_">"O usuário já foi convidado."</string>
+    <string name="You_dont_own_the_team_">"Você não é o dono da equipe:"</string>
+    <string name="User_has_already_been_invited_">"Este usuário já foi convidado."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Máximo de jogadores permitidos na equipe:"</string>
     <string name="Name_is_already_in_use_">"Este nome já está em uso."</string>
     <string name="User_is_not_in_the_team_">"O usuário não está na equipe."</string>
@@ -601,14 +601,14 @@
     <string name="CUSTOM_SKIN">"SKIN PERSONALIZADA"</string>
 
     <string name="Facebook_Profile">"Perfil do Facebook"</string>
-    <string name="You_must_be_signed_in_to_Facebook_">"Você precisa estar conectado ao Facebook."</string>
+    <string name="You_must_be_signed_in_to_Facebook_">"Você precisa estar logado no Facebook."</string>
     <string name="copy_details">"Copiar Detalhes"</string>
     <string name="copied_error_details_to_clipboard">"Detalhes do erro copiado para área de transferência"</string>
 
-    <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos instalado!"</string>
+    <string name="No_file_browser_installed_">"Nenhum gerenciador de arquivos foi instalado!"</string>
     <string name="Choose_File">"Escolher Arquivo"</string>
     <string name="Google_Profile">"Perfil do Google"</string>
-    <string name="You_must_be_signed_in_to_Google_">"Você precisa estar conectado ao Google."</string>
+    <string name="You_must_be_signed_in_to_Google_">"Você precisa estar logado no Google."</string>
 
     <string name="MAYHEM">"MAYHEM"</string>
     <string name="eggs_">"ovos."</string>
@@ -958,16 +958,16 @@ Regras do Nebulous\n
 7. Não crie Jogos Personalizados/Chats com nomes inapropriados.\n
 8. Obedeça os Moderadores.\n
 9. Não aproveite-se de Bugs no jogo.\n
-10. Não dê ban em muitos jogadores do Clã sem a autorização do líder.\n
-11. Em jogos de equipe, não se alie a alguém de uma equipe adversária.\n
+10. Não dê ban em muitos jogadores do Clã sem a autorização do lídDesafianteNos
+11. Nos jogos em equipe, não se alie a alguém de uma equipe adversária.\n
 12. Nunca minta para um Moderador.\n
 13. Não troque os Clãs do Nebulous por dinheiro ou plasma.\n
 14. Não faça spam no chat ou e-mail.\n
         \n
 Caso você não cumpra nenhuma dessas regras, sua conta poderá ser banida.\n
-(O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e da gravidade do problema).\n
+(O tempo da punição pode ser de algumas horas até o banimento permanente, dependendo da situação e/ou da gravidade do problema).\n
 \n
-Se você notar um jogador quebrando as regras do jogo, denuncie a um Moderador.
+Se você notar um jogador violando as regras do jogo, denuncie a um Moderador.
     </string>
     <string name="Blob_Chat_Bubbles">Bolhas do Chat no Blob</string>
     <string name="CHRISTMAS_ADVENT_SKINS">CHEGADA DO NATAL</string>
@@ -1067,18 +1067,18 @@ POR QUE A MINHA SKIN PERSONALIZADA FOI REEMBOLSADA OU REJEITADA?
 Se a sua skin personalizada for reembolsada, não a compre novamente, pois ela será rejeitada e você perderá seus plasmas.
 
 Esta é uma lista de itens *PROIBIDOS* para uso em skins personalizadas. Se você comprar uma skin que contenha esses elementos, ela será reembolsada ou rejeitada:
-- Conteúdo e/ou alguma referência Sexual
-- Skins/Arte do Nebulous Não Modificadas
-- Conteúdo Gore (horror)/Suicídio
-- Nudes (sem camisa)
-- Skins muito escuras
-- Skins transparentes
-- Drogas (Álcool/Cigarro/Marijuana - Maconha)
-- Nome de páginas/sites para adultos (pornografia)
-- Pessoas com pouca roupa (decotes no corpo)
-- Racismo/Nazismo/Violência
-- Pessoas usando uma arma
-- Sinais obscenos nas mãos"
+- Conteúdo e/ou alguma referência Sexual;
+- Skins/Arte do Nebulous Não Modificadas;
+- Conteúdo Gore (horror)/Suicídio;
+- Nudes (sem camisa);
+- Skins muito escuras;
+- Skins transparentes;
+- Drogas (Álcool/Cigarro/Marijuana - Maconha);
+- Nome de páginas/sites para adultos (pornografia);
+- Pessoas com pouca roupa (decotes no corpo);
+- Racismo/Nazismo/Violência;
+- Pessoas usando uma arma;
+- Sinais obscenos nas mãos.
     </string>
     <string name="PLAY_ONLINE_">JOGAR ONLINE!</string>
 
